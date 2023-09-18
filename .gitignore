@@ -158,6 +158,7 @@ dmypy.json
 cython_debug/
 
 # Specific directories
+stack-overflow-developer-survey-2023/*
 
 
 # PyCharm

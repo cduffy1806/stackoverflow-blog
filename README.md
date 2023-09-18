@@ -10,7 +10,7 @@ For this project, I was interestested in using Stack Overflow data from 2023 to 
 
 * Which programming languages, frameworks, and tools are the most popular?
 * Can we use a developers education level and tech stack experience to predict their developer role?
-* How significant are Salary differences across Developer Roles 
+* How significant are Salary differences across Developer Roles?
 
 The full set of csv files related to this analysis [here](https://survey.stackoverflow.co/)
 
@@ -18,7 +18,7 @@ The full set of csv files related to this analysis [here](https://survey.stackov
 There is one notebook available [here](https://github.com/cduffy1806/stackoverflow-blog/blob/main/stackoverflow_survey_analysis.ipynb) to showcase work related to the above questions. 
 
 ### Results
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@conorjduffy93/how-have-developer-roles-evolved-in-2023-c1f5aad19cfa).
 
 ### Licensing, Authors, Acknowledgements
 Must give credit to Stack Overflow for the data. 
